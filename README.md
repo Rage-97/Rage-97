@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Rage-97
+- 👀 I’m interested in videogames and looking at the screen in general
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on any python related projects
+- 📫 How to reach me frozenmind1997@gmail.com
